@@ -99,7 +99,7 @@ Contributions are welcome! If you want to help:
 
 ## License
 
-> This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+> This project is licensed under the MIT License. See the [LICENSE](https://mit-license.org/) file for details.
 
 ---
 
