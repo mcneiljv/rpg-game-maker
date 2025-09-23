@@ -99,8 +99,6 @@ Contributions are welcome! If you want to help:
 
 ## License
 
-Specify your project’s license here (e.g. MIT, Apache, etc.). If none has been decided, you could add something like:
-
 > This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
