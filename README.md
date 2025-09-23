@@ -1,4 +1,4 @@
-# RPG Game Maker
+# Basic RPG
 
 *A cool RPG game made with GameMaker Studio*
 
@@ -19,7 +19,7 @@
 
 ## About
 
-This is **RPG Game Maker**, a game built using **GameMaker Studio**. It includes basic RPG elements like rooms, sprites, objects, scripts, and tilesets. The goal is to learn, experiment, and build a fun RPG foundation.
+This is a basic **RPGr** built using **GameMaker Studio**. It includes basic RPG elements like rooms, sprites, objects, scripts, and tilesets. The goal is to learn, experiment, and build a fun RPG foundation.
 
 ---
 
