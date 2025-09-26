@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"rpg-game-maker",
+  "%Name":"Tutorial",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -33,11 +33,10 @@
   "MetaData":{
     "IDEVersion":"2024.13.1.193",
   },
-  "name":"rpg-game-maker",
+  "name":"Tutorial",
   "resources":[
     {"id":{"name":"obj_bed","path":"objects/obj_bed/obj_bed.yy",},},
     {"id":{"name":"obj_dresser","path":"objects/obj_dresser/obj_dresser.yy",},},
-    {"id":{"name":"obj_pauser","path":"objects/obj_pauser/obj_pauser.yy",},},
     {"id":{"name":"obj_plant","path":"objects/obj_plant/obj_plant.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},

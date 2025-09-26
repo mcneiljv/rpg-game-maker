@@ -6,6 +6,12 @@ var down_key = keyboard_check(vk_down);
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
+// pause player movment
+if instance_exists(obj_pauser) {
+	xspd = 0;
+	yspd = 0;
+}
+
 // set sprite direction
 mask_index = sprite[DOWN];
 

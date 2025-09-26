@@ -1,19 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"obj_plant",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_player",
+  "name":"obj_plant",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
-  "persistent":true,
+  "parentObjectId":{
+    "name":"obj_wall",
+    "path":"objects/obj_wall/obj_wall.yy",
+  },
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_down",
-    "path":"sprites/spr_player_down/spr_player_down.yy",
+    "name":"spr_plant",
+    "path":"sprites/spr_plant/spr_plant.yy",
   },
   "spriteMaskId":null,
   "visible":true,
